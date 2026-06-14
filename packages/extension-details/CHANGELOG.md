@@ -1,5 +1,14 @@
 # @tiptap/extension-details
 
+## 3.27.0
+
+### Patch Changes
+
+- Updated dependencies [0d0094d]
+  - @tiptap/core@3.27.0
+  - @tiptap/extension-text-style@3.27.0
+  - @tiptap/pm@3.27.0
+
 ## 3.26.1
 
 ### Patch Changes
