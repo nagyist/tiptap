@@ -1,5 +1,14 @@
 # @tiptap/markdown
 
+## 3.27.0
+
+### Patch Changes
+
+- 33687f1: Fix parsing with injected Marked instances so custom markdown tokenizers registered via `marked.use(...)` are respected.
+- Updated dependencies [0d0094d]
+  - @tiptap/core@3.27.0
+  - @tiptap/pm@3.27.0
+
 ## 3.26.1
 
 ### Patch Changes

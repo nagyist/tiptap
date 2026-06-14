@@ -1,5 +1,12 @@
 # @tiptap/extension-twitch
 
+## 3.27.0
+
+### Patch Changes
+
+- Updated dependencies [0d0094d]
+  - @tiptap/core@3.27.0
+
 ## 3.26.1
 
 ### Patch Changes
